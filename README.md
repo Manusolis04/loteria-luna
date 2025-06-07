@@ -23,11 +23,13 @@ https://github.com/SantiRendon/data-analysis-template-python-poetry.git
 ```
 
 2. Navega al directorio del proyecto:
+
 ```bash
 cd data-analysis-template-python-poetry
 ```
 
 3. Instala las dependencias del proyecto con Poetry:
+
 ```bash
 poetry install
 ```
@@ -121,3 +123,9 @@ poetry install --with dev
 ## 📜 Licencia
 
 Este proyecto está bajo la licencia [MIT](LICENSE).
+
+
+
+## Fuente de datos:
+
+Plataforma de datos abiertos colombia: [Premios loteria colombia](https://www.datos.gov.co/Hacienda-y-Cr-dito-P-blico/Premios-pagados-Loter-as/7dkq-pphj/about_data)
