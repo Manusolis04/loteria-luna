@@ -1,14 +1,14 @@
 [project]
 name = "loteria-luna"
 version = "0.1.0"
-description = "Esta proyecto permite un seguimiento preciso de los premios entregados y de los impuestos asociados, brindando transparencia y claridad en el proceso de reclamación de premios en el juego de lotería."
+description = "Este proyecto permite un seguimiento preciso de los premios entregados y de los impuestos asociados, brindando transparencia y claridad en el proceso de reclamación de premios en el juego de lotería."
 authors = [
     {name = "santiDev",email = "xantirendonc@gmail.com"},
     {name = "manusolis04",email = "manuelasolis.08@hotmail.com"}
 ]
 license = {text = "MIT"}
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.11"
 dependencies = [
     "pandas (>=2.2.3,<3.0.0)",
     "numpy (>=2.2.4,<3.0.0)",
