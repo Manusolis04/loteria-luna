@@ -1,7 +1,7 @@
 [project]
-name = "Loteria-Luna"
+name = "loteria-luna"
 version = "0.1.0"
-description = "Esta información permite un seguimiento preciso de los premios entregados y de los impuestos asociados, brindando transparencia y claridad en el proceso de reclamación de premios en el juego de lotería."
+description = "Esta proyecto permite un seguimiento preciso de los premios entregados y de los impuestos asociados, brindando transparencia y claridad en el proceso de reclamación de premios en el juego de lotería."
 authors = [
     {name = "santiDev",email = "xantirendonc@gmail.com"},
     {name = "manusolis04",email = "manuelasolis.08@hotmail.com"}
